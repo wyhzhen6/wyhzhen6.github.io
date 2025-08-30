@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a second-year graduate student at the School of Computer Science and Engineering, Nanyang Technological University, supervised by Professor [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
-Prior to this, I received my B.Eng. degree from University of Science and Technology of China in 2020.. Prior to this, I obtained my Bachelor of Engineering degree from Nankai University, China in 2020.
+Prior to this, I received my B.Eng. degree from University of Science and Technology of China in 2020.
 
 My current research topic is:
 
 Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 # 📖 Educations
-- *2024.08 - 2026.06 (now)*, Nanyang Technological University (NTU), Master of Computing and Data Science . Supervisor: Eng Siong Chng.
+- *2024.08 - 2026.06 (now)*, Nanyang Technological University (NTU), Master of Computing and Data Science . Supervisor: Eng Siong Chng.  GPA: 4.50/5(10%)
 - *2020.09 - 2024.07*, Nankai University, B.Eng. in Computer Science and Technology. GPA: 3.49/4 [Transcript](https://github.com/wyhzhen6/wyhzhen6.github.io/blob/main/transcript.pdf). 
 
 
