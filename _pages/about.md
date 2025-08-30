@@ -27,66 +27,15 @@ Far-field overlap diarization
 - *2024.08 - 2026.06 (now)*, Nanyang Technological University (NTU), Master of Computing and Data Science . Supervisor: Eng Siong Chng.
 - *2020.09 - 2024.07*, Nankai University, B.Eng. in Computer Science and Technology. GPA: 3.49/4 [Transcript](https://github.com/wyhzhen6/wyhzhen6.github.io/blob/main/%E4%B8%AD%E6%96%87%E6%88%90%E7%BB%A9%E5%8D%95.pdf). 
 
-# 📝 Publications 
-
 
 # 📝 Publications  
 
-<div class='paper-box'><div class='paper-box-image'><div>
-  <div class="badge" style="background:#2196F3;color:white">ICASSP</div>
-  <div class="badge" style="background:#555;color:white">2026</div>
-</div></div>
-<div class='paper-box-text' markdown="1">
+- <span style="display:inline-block; background-color:#2E8B57; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2026</span> [Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations](#), **<u>Yihao Wu</u>**, Z Ma, T Wang, and Eng Siong Chng.  
 
-[Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations](#)  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2026</span> [A Benchmark Dataset for Multi-Speaker Meeting Diarization](#), **<u>Yihao Wu</u>**, H Zheng, T Anh, A Adnan, J Zhang, W Chen, and Eng Siong Chng.  
 
-**Yihao Wu**, Z Ma, T Wang, and Chng Eng Siong  
+- <span style="display:inline-block; background-color:#D6336C; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2025</span> [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032), Z Ma, Y Ma, Y Zhu, C Yang, YW Chao, ..., **<u>Yihao Wu</u>**.  
 
-</div>
-</div>
+- <span style="display:inline-block; background-color:#FF8C00; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">APSIPA 2025</span> [TS-VAD+: Modularized Target-Speaker Voice Activity Detection for Robust Speaker Diarization](#), T Anh, A Adnan, **<u>Yihao Wu</u>**, and Eng Siong Chng.  
 
----
-
-<div class='paper-box'><div class='paper-box-image'><div>
-  <div class="badge" style="background:#2196F3;color:white">ICASSP</div>
-  <div class="badge" style="background:#555;color:white">2026</div>
-</div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Benchmark Dataset for Multi-Speaker Meeting Diarization](#)  
-
-**Yihao Wu**, H Zheng, T Anh, A Adnan, J Zhang, W Chen, and Chng Eng Siong  
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div>
-  <div class="badge" style="background:#E91E63;color:white">NeurIPS</div>
-  <div class="badge" style="background:#555;color:white">2025</div>
-</div></div>
-<div class='paper-box-text' markdown="1">
-
-[MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032)  
-
-Z Ma, Y Ma, Y Zhu, C Yang, YW Chao, ..., **Yihao Wu**  
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div>
-  <div class="badge" style="background:#FF9800;color:white">APSIPA</div>
-  <div class="badge" style="background:#555;color:white">2025</div>
-</div></div>
-<div class='paper-box-text' markdown="1">
-
-[TS-VAD+: Modularized Target-Speaker Voice Activity Detection for Robust Speaker Diarization](#)  
-
-T Anh, A Adnan, **Yihao Wu**, and Chng Eng Siong  
-
-</div>
-</div>
 
