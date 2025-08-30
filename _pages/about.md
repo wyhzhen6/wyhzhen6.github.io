@@ -26,7 +26,7 @@ Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 # 📖 Educations
 - *2024.08 - 2026.06 (now)*, Nanyang Technological University (NTU), Master of Computing and Data Science . Supervisor: Eng Siong Chng.
-- *2020.09 - 2024.07*, Nankai University, B.Eng. in Computer Science and Technology. GPA: 3.49/4 [Transcript](https://github.com/wyhzhen6/wyhzhen6.github.io/blob/main/%E4%B8%AD%E6%96%87%E6%88%90%E7%BB%A9%E5%8D%95.pdf). 
+- *2020.09 - 2024.07*, Nankai University, B.Eng. in Computer Science and Technology. GPA: 3.49/4 [Transcript](https://github.com/wyhzhen6/wyhzhen6.github.io/blob/main/transcript.pdf). 
 
 
 # 📝 Publications  
@@ -39,4 +39,5 @@ Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">APSIPA 2025</span> [TS-VAD+: Modularized Target-Speaker Voice Activity Detection for Robust Speaker Diarization](#), T Anh, A Adnan, **<u>Yihao Wu</u>**, and Eng Siong Chng.  
 
+Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
