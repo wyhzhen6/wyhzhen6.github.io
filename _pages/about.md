@@ -35,7 +35,7 @@ Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2026</span> [A Benchmark Dataset for Multi-Speaker Meeting Diarization](#), **<u>Yihao Wu</u>**, H Zheng, T Anh, A Adnan, J Zhang, W Chen, and Eng Siong Chng.  
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2025</span> [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032), Z Ma, Y Ma, Y Zhu, C Yang, YW Chao, ..., **<u>Yihao Wu</u>**.  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2025</span> [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032), Z Ma, Y Ma, Y Zhu, C Yang, YW Chao, **<u>Yihao Wu</u>**，....  
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">APSIPA 2025</span> [TS-VAD+: Modularized Target-Speaker Voice Activity Detection for Robust Speaker Diarization](#), T Anh, A Adnan, **<u>Yihao Wu</u>**, and Eng Siong Chng.  
 
