@@ -25,35 +25,68 @@ Far-field overlap diarization
 
 # 📖 Educations
 - *2024.08 - 2026.06 (now)*, Nanyang Technological University (NTU), Master of Computing and Data Science . Supervisor: Eng Siong Chng.
-- *2020.09 - 2024.07*, Nankai University, B.Eng. in Computer Science and Technology. GPA: 3.49/4 . 
+- *2020.09 - 2024.07*, Nankai University, B.Eng. in Computer Science and Technology. GPA: 3.49/4 [Transcript](https://github.com/wyhzhen6/wyhzhen6.github.io/blob/main/%E4%B8%AD%E6%96%87%E6%88%90%E7%BB%A9%E5%8D%95.pdf). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+# 📝 Publications  
+
+<div class='paper-box'><div class='paper-box-image'><div>
+  <div class="badge" style="background:#2196F3;color:white">ICASSP</div>
+  <div class="badge" style="background:#555;color:white">2026</div>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations](#)  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yihao Wu**, Z Ma, T Wang, and Chng Eng Siong  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div>
+  <div class="badge" style="background:#2196F3;color:white">ICASSP</div>
+  <div class="badge" style="background:#555;color:white">2026</div>
+</div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[A Benchmark Dataset for Multi-Speaker Meeting Diarization](#)  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Yihao Wu**, H Zheng, T Anh, A Adnan, J Zhang, W Chen, and Chng Eng Siong  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div>
+  <div class="badge" style="background:#E91E63;color:white">NeurIPS</div>
+  <div class="badge" style="background:#555;color:white">2025</div>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032)  
+
+Z Ma, Y Ma, Y Zhu, C Yang, YW Chao, ..., **Yihao Wu**  
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div>
+  <div class="badge" style="background:#FF9800;color:white">APSIPA</div>
+  <div class="badge" style="background:#555;color:white">2025</div>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[TS-VAD+: Modularized Target-Speaker Voice Activity Detection for Robust Speaker Diarization](#)  
+
+T Anh, A Adnan, **Yihao Wu**, and Chng Eng Siong  
+
+</div>
+</div>
+
