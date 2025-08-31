@@ -25,7 +25,8 @@ My current research topic is:
 Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 # 📖 Educations
-- *2024.08 - 2026.06 (now)*, Nanyang Technological University (NTU), Master of Computing and Data Science . Supervisor: Eng Siong Chng.  GPA: 4.50/5(10%)
+- *2024.08 - 2026.06 (now)*, Nanyang Technological University (NTU), Master of Computing and Data Science . Supervisor: Eng Siong Chng.
+  GPA: 4.50/5(10%)
 - *2020.09 - 2024.07*, Nankai University, B.Eng. in Computer Science and Technology. GPA: 3.49/4 [Transcript](https://github.com/wyhzhen6/wyhzhen6.github.io/blob/main/transcript.pdf). 
 
 
