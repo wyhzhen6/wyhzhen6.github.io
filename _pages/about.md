@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a second-year graduate student at the School of Computer Science and Engineering, Nanyang Technological University, supervised by Professor [Eng Siong Chng](https://scholar.google.com/citations?hl=en&user=FJodrCcAAAAJ). 
-Prior to this, I received my B.Eng. degree from University of Science and Technology of China in 2020.
+Prior to this, I received my B.Eng. degree from NanKai University of China in 2024.
 
 My current research topic is:
 
