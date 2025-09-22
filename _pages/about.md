@@ -31,7 +31,6 @@ Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 
 # 📝 Publications  
-Yizhou Peng$^{1}$, Yi-Wen Chao$^{1}$, Xuyi Zhuang$^{1}$, \\ \textit{Xinsheng Wang$^{2}$, Shunshun Yin$^{2}$, Ziyang Ma$^{1}$}}
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations](#), **<u>Y Wu</u>**, T Wang,Y Peng, YW Chao, X Zhuang, X Wang, S Yin and Z Ma.  
 
