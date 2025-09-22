@@ -32,7 +32,7 @@ Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 # 📝 Publications  
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations](#), **<u>Y Wu</u>**, T Wang,Y Peng, YW Chao, X Zhuang, X Wang, S Yin and Z Ma.  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations](#), **<u>Y Wu</u>**, T Wang, Y Peng, YW Chao, X Zhuang, X Wang, S Yin and Z Ma.  
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [A Benchmark Dataset for Multi-Speaker Meeting Diarization](#), **<u>Y Wu</u>**, H Zheng,  J Zhang, W Chen, T Anh, A Adnan, W Rao, X Zhong and ES Chng.  
 
