@@ -31,14 +31,15 @@ Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 
 # 📝 Publications  
+Yizhou Peng$^{1}$, Yi-Wen Chao$^{1}$, Xuyi Zhuang$^{1}$, \\ \textit{Xinsheng Wang$^{2}$, Shunshun Yin$^{2}$, Ziyang Ma$^{1}$}}
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations](#), **<u>Yihao Wu</u>**, Z Ma, T Wang, and Eng Siong Chng.  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations](#), **<u>Y Wu</u>**, T Wang,Y Peng, YW Chao, X Zhuang, X Wang, S Yin and Z Ma.  
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [A Benchmark Dataset for Multi-Speaker Meeting Diarization](#), **<u>Yihao Wu</u>**, H Zheng, T Anh, A Adnan, J Zhang, W Chen, and Eng Siong Chng.  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [A Benchmark Dataset for Multi-Speaker Meeting Diarization](#), **<u>Y Wu</u>**, H Zheng,  J Zhang, W Chen, T Anh, A Adnan, W Rao, X Zhong and ES Chng.  
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032), Z Ma, Y Ma, Y Zhu, C Yang, YW Chao, **<u>Yihao Wu</u>**，....  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032), Z Ma, Y Ma, Y Zhu, C Yang, YW Chao, **<u>Y Wu</u>**，....  
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">APSIPA 2025</span> [TS-VAD+: Modularized Target-Speaker Voice Activity Detection for Robust Speaker Diarization](#), T Anh, A Adnan, **<u>Yihao Wu</u>**, and Eng Siong Chng.  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">APSIPA 2025</span> [TS-VAD+: Modularized Target-Speaker Voice Activity Detection for Robust Speaker Diarization](#), T Anh, A Adnan, **<u>Y Wu</u>**, and ES Chng.  
 
 Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
