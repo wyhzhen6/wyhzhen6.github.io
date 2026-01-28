@@ -36,7 +36,7 @@ Speaker diarization, Text-to-Speech, and Speech Large Language Model
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [Multi-Talker-SD:A Benchmark Dataset for Multi-Speaker Meeting Diarization](#), **<u>Y Wu</u>**, H Zheng,  J Zhang, W Chen, T Anh, A Adnan, W Rao, X Zhong and ES Chng.
 
-{%- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [Evaluating the Expressive Appropriateness of Speech in Rich Contexts](#), **<u>Y Wu</u>**, H Zheng,  J Zhang, W Chen, T Anh, A Adnan, W Rao, X Zhong and ES Chng. %}
+{% - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> [Evaluating the Expressive Appropriateness of Speech in Rich %}  {% {% Contexts](#), **<u>Y Wu</u>**, H Zheng,  J Zhang, W Chen, T Anh, A Adnan, W Rao, X Zhong and ES Chng. %}
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2025</span> [MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](https://arxiv.org/abs/2505.13032), Z Ma, Y Ma, Y Zhu, C Yang, YW Chao, **<u>Y Wu</u>**，et al.
 
